@@ -1,16 +1,15 @@
-## Hi there 👋
+# 안녕하세요, 로직 설계를 즐기는 개발자 OOO입니다. 👨‍💻
 
-<!--
-**Jengsoi/Jengsoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- **Languages:** ![Python](badge-url) 
+- **Focus:** Algorithm Analysis, System Logic, Data Processing
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+### [프로젝트 이름]
+- **설명:** 어떠한 문제를 해결하기 위해 개발한 응용 프로그램
+- **핵심 역량:** 중첩 반복문 최적화 및 예외 처리
+- **설계도:** (순서도 이미지 링크)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Technical Blog
+- [티스토리 블로그 방문하기](내-블로그-주소)
+- 꾸준히 Python 문법과 알고리즘(Selection/Bubble/Insertion Sort 등)을 정리 중입니다.
