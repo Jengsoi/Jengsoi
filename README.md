@@ -1,4 +1,4 @@
-# 안녕하세요, 로직 설계를 즐기는 개발자 OOO입니다. 👨‍💻
+# 안녕하세요 신입 개발자 정병인입니다. 👨‍💻
 
 ## 🛠 Tech Stack
 - **Languages:** ![Python](badge-url) 
