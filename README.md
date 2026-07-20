@@ -11,5 +11,5 @@
 - **설계도:** (순서도 이미지 링크)
 
 ## 📝 Technical Blog
-- [티스토리 블로그 방문하기]([내-블로그-주소](https://injjang007.tistory.com/))
+- [티스토리 블로그 방문하기](https://injjang007.tistory.com/)
 - 꾸준히 Python 문법과 알고리즘(Selection/Bubble/Insertion Sort 등)을 정리 중입니다.
