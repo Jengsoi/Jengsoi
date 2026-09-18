@@ -40,45 +40,79 @@ Python과 C#을 중심으로
 
 ## 🚀 Featured Projects
 
-### 🦺 산업안전 보호구 AI 모니터링 시스템
+### 🦺 [산업안전 보호구 AI 모니터링 시스템](https://github.com/Jengsoi/TeamProject_EED)
+
 C#과 WPF를 기반으로 작업자의 안전장비 착용 여부를 검사하고  
-검사 결과와 통계를 관리하는 시스템을 개발했습니다.
+검사 결과와 통계를 관리하는 산업안전 시스템입니다.
 
 - AI Object Detection 모델 연동
 - 카메라 및 이미지 기반 보호구 검사
 - 검사 결과 저장 및 조회
 - 통계 및 추이 차트 구현
-- Client-Server 비동기 통신
+- TCP 기반 Client-Server 통신
+- 비동기 통신 및 예외 처리
+- MySQL 데이터베이스 연동
+- 단위 테스트 및 통합 테스트 수행
 
-`C#` `WPF` `.NET` `TCP/IP` `MySQL` `AI Object Detection`
+`C#` `WPF` `.NET` `TCP/IP` `MySQL` `ONNX` `AI Object Detection`
 
 ---
 
-### 🛒 쇼핑몰 재고관리 시스템
+### 🛒 [쇼핑몰 재고관리 시스템](https://github.com/Jengsoi/sopping_mall)
+
 온라인 쇼핑몰 팀 프로젝트에서 **재고관리 기능**을 담당했습니다.
+
+클라이언트, 서버, 데이터베이스로 구성된 구조에서  
+상품 및 카테고리 데이터를 조회하고 관리하는 기능을 구현했습니다.
 
 - 카테고리 조회 / 추가 / 수정
 - 상품 조회 / 추가 / 수정
 - 재고 데이터 관리
 - 관리자 권한 확인
-- MySQL CRUD
-- TCP/IP 및 JSON 기반 통신
+- MySQL CRUD 구현
+- TCP/IP Socket 통신
+- JSON 기반 요청 / 응답 처리
+- 데이터 이력 보존을 고려한 구조 설계
 
-`Python` `PySide6` `MySQL` `TCP/IP` `JSON`
+`Python` `PySide6` `MySQL` `TCP/IP` `Socket` `JSON`
 
 ---
 
-### 💬 TCP/IP 채팅 시스템
-Python 기반 채팅 프로그램에서 **서버 개발을 담당**했습니다.
+### 💬 [TCP/IP 채팅 시스템](https://github.com/Jengsoi/TeamPJ_Chat)
+
+Python 기반 Client-Server 채팅 프로그램에서  
+**서버 개발을 담당**했습니다.
 
 - 다중 클라이언트 연결 관리
 - 회원가입 / 로그인
 - 채팅방 생성 / 입장 / 퇴장
-- 메시지 및 귓속말 처리
-- JSON 기반 데이터 저장
-- 4Byte Header 기반 통신
+- 메시지 송수신
+- 귓속말 기능
+- JSON 기반 사용자 및 채팅 데이터 저장
+- 고정 4Byte Header 기반 메시지 프레이밍
+- 서버 / 서비스 / 저장소 계층 분리
 
 `Python` `TCP/IP` `Socket` `JSON`
+
+---
+
+## 📂 Other Projects
+
+### ☕ [Python 키오스크 프로젝트](https://github.com/Jengsoi/kiosk)
+
+Python을 활용해 주문, 옵션 선택, 장바구니, 금액 계산,  
+영수증 출력 기능을 구현한 팀 프로젝트입니다.
+
+`Python` `PyCharm`
+
+---
+
+### 📚 [RAG Project](https://github.com/Jengsoi/RAG_project)
+
+RAG 구조를 활용한 프로젝트로,  
+검색과 생성 모델을 연결하는 데이터 처리 구조를 학습하고 구현했습니다.
+
+`Python` `RAG`
 
 ---
 
@@ -97,3 +131,5 @@ Python 기반 채팅 프로그램에서 **서버 개발을 담당**했습니다.
 기능을 구현하는 것뿐만 아니라  
 데이터가 어떻게 이동하고 프로그램이 왜 그렇게 동작하는지 이해하는 것을 중요하게 생각합니다.
 
+문제가 발생했을 때 단순히 코드를 수정하는 것에서 끝내지 않고,  
+**원인을 찾고 구조를 이해하며 해결할 수 있는 개발자**로 성장하고 있습니다.
